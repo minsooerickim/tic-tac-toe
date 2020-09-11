@@ -85,7 +85,7 @@ void winner() {
 	
 	if (turnCount == 9) {
 		if (gameOver) {
-			cout << "It is a tie! Nobody wins ahahah!";
+			cout << "It is a tie! Nobody wins lol";
 			gameOver = false;
 		}
 	}
