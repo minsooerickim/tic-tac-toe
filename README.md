@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-enjoy monicas
+have fun!
